@@ -1,0 +1,44 @@
+/* Базовые стили для сайта PHARAOH */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+h1, h2, h3 {
+    color: #4B0082;
+}
+
+a {
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, ol {
+    margin-left: 30px;
+}
+
+hr {
+    margin: 30px 0;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
